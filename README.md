@@ -21,7 +21,7 @@ catalogo-livros/
 
 🚀 Como Executar o Projeto?
 1️⃣ Baixe ou clone o repositório:
-git clone https://github.com/seu-usuario/catalogo-livros.git
+git clone https://github.com/helciopadilha/catalogo-livros
 cd catalogo-livros
 
 2️⃣ Abra o terminal na pasta do projeto e execute:
